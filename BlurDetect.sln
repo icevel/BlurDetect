@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BlurDetect", "BlurDetect\BlurDetect.vcxproj", "{3C6639B7-0EA7-420C-8C62-640C822053BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C6639B7-0EA7-420C-8C62-640C822053BE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C6639B7-0EA7-420C-8C62-640C822053BE}.Debug|Win32.Build.0 = Debug|Win32
+		{3C6639B7-0EA7-420C-8C62-640C822053BE}.Release|Win32.ActiveCfg = Release|Win32
+		{3C6639B7-0EA7-420C-8C62-640C822053BE}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
